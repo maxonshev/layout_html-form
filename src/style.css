@@ -1,1 +1,15 @@
-/* styles go here */
+.input {
+  margin: 10px 0;
+}
+
+.firstInput {
+  margin: 0 0 10px;
+}
+
+.lastInput {
+  margin: 10px 0 0;
+}
+
+.fieldset1 {
+  margin: 0 0 20px;
+}
