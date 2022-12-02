@@ -1,15 +1,15 @@
 .input {
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
-.firstInput {
-  margin: 0 0 10px;
-}
-
-.lastInput {
-  margin: 10px 0 0;
+.input:last-child {
+  margin-bottom: auto;
 }
 
 .fieldset1 {
-  margin: 0 0 20px;
+  margin-bottom: 20px;
+}
+
+.fieldset1:last-child {
+  margin-bottom: auto;
 }
